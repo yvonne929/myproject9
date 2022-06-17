@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="688028aa-d64e-4104-a78a-d18b99be634d" name="Changes" comment="PersonKotlin 補充">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yvonne/score/Student.kt" afterDir="false" />
+    <list default="true" id="688028aa-d64e-4104-a78a-d18b99be634d" name="Changes" comment="initial writing class Student with kotlin">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yvonne/score/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yvonne/score/Student.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.StudentKt">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yvonne.Hello" />
       <module name="myproject9.main" />
@@ -59,8 +60,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yvonne.com.yvonne.score.StudentKt" />
+      <module name="myproject9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StudentKt" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -130,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654918604484</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="initial writing class Student with kotlin">
+      <created>1655448141271</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655448141271</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +182,7 @@
     <MESSAGE value="merged" />
     <MESSAGE value="Hello world kotlin" />
     <MESSAGE value="PersonKotlin 補充" />
-    <option name="LAST_COMMIT_MESSAGE" value="PersonKotlin 補充" />
+    <MESSAGE value="initial writing class Student with kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial writing class Student with kotlin" />
   </component>
 </project>
